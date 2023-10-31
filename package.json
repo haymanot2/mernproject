@@ -4,7 +4,7 @@
   "description": "Doctor appointment website",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "nodemon server.js",
     "build":"npm install"
   },
   "author": "haymaotgebeyehu",
